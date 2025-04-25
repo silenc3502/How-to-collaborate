@@ -1,1 +1,1 @@
-print("Hello Conflict Test on Special Lecture")
+print("Hello Conflict Test on First Push")
