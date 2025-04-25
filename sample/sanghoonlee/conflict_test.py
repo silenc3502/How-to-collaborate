@@ -1,1 +1,1 @@
-print("Hello Conflict Test on Git Lecture")
+print("Hello Conflict Test on Special Lecture")
